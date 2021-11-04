@@ -1,2 +1,2 @@
 # LearningGoGame
-Repository to get familiarity with golang
+Repository to get familiar with golang
